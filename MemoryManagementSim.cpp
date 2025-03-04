@@ -1,3 +1,6 @@
+//Yaroslav Petrunin
+// Memory Allocation Manager
+
 #include <iostream>
 #include <vector>
 #include <cstdlib>
